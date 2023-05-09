@@ -1,5 +1,3 @@
-[![Maven Central](https://img.shields.io/maven-central/v/com.jubyte.coloredprefix/ColoredPrefixAPI.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.jubyte.coloredprefix%22%20AND%20a:%22ColoredPrefixAPI%22)
-
 # ColoredPrefix Wiki
 
 The ColoredPrefix API is a Java library that provides an API to manage prefix entries for players.
