@@ -23,8 +23,8 @@ And then add the following dependency:
 ```xml
 <dependency>
   <groupId>com.jubyte.coloredprefix</groupId>
-  <artifactId>ColoredPrefixAPI</artifactId>
-  <version>2.8.0-RELEASE</version>
+  <artifactId>ColoredPrefixApi</artifactId>
+  <version>2.8.3-RELEASE</version>
 </dependency>
 ```
 
