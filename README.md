@@ -13,7 +13,7 @@ Add the following repository to your `pom.xml`:
   <repository>
     <id>jubyte</id>
     <name>JuByte</name>
-    <url>https://repo.jubyte.com/repository/jubyte/</url>
+    <url>https://repo.jubyte.com/artifactory/jubyte/</url>
   </repository>
 </repositories>
 ```
@@ -22,9 +22,9 @@ And then add the following dependency:
 
 ```xml
 <dependency>
-  <groupId>com.jubyte.coloredprefix</groupId>
-  <artifactId>ColoredPrefixApi</artifactId>
-  <version>2.8.3-RELEASE</version>
+    <groupId>com.jubyte.coloredprefix</groupId>
+    <artifactId>ColoredPrefixApi</artifactId>
+    <version>2.9.0-RELEASE</version>
 </dependency>
 ```
 
@@ -35,7 +35,7 @@ Add the following repository to your `build.gradle` file:
 ```groovy
 repositories {
     maven {
-        url "https://repo.jubyte.com/repository/jubyte/"
+        url "https://repo.jubyte.com/artifactory/jubyte/"
     }
 }
 ```
@@ -44,7 +44,7 @@ And then add the following dependency:
 
 ```groovy
 dependencies {
-    implementation 'com.jubyte.coloredprefix:ColoredPrefixAPI:2.8.0-RELEASE'
+    implementation 'com.jubyte.coloredprefix:ColoredPrefixApi:2.9.0-RELEASE'
 }
 ```
 
@@ -84,7 +84,7 @@ ColoredPrefix API is released under the MIT License.
 
 MIT License
 
-Copyright (c) 2023 JuByte
+Copyright (c) 2023 - 2025 JuByte
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
