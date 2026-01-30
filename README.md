@@ -24,7 +24,7 @@ And then add the following dependency:
 <dependency>
     <groupId>com.jubyte.coloredprefix</groupId>
     <artifactId>ColoredPrefixApi</artifactId>
-    <version>2.9.0-RELEASE</version>
+    <version>2.11.2-RELEASE</version>
 </dependency>
 ```
 
