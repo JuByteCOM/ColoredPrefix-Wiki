@@ -44,7 +44,7 @@ And then add the following dependency:
 
 ```groovy
 dependencies {
-    implementation 'com.jubyte.coloredprefix:ColoredPrefixApi:2.9.0-RELEASE'
+    implementation 'com.jubyte.coloredprefix:ColoredPrefixApi:2.11.2-RELEASE'
 }
 ```
 
